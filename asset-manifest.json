@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robofriends2020/static/css/main.67804f47.chunk.css",
+    "main.js": "/Robofriends2020/static/js/main.828d033b.chunk.js",
+    "main.js.map": "/Robofriends2020/static/js/main.828d033b.chunk.js.map",
+    "runtime-main.js": "/Robofriends2020/static/js/runtime-main.a53e5be4.js",
+    "runtime-main.js.map": "/Robofriends2020/static/js/runtime-main.a53e5be4.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Robofriends2020/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a8dbdf4a.chunk.js": "/Robofriends2020/static/js/2.a8dbdf4a.chunk.js",
+    "static/js/2.a8dbdf4a.chunk.js.map": "/Robofriends2020/static/js/2.a8dbdf4a.chunk.js.map",
+    "index.html": "/Robofriends2020/index.html",
+    "precache-manifest.0f9585056eaa91c3d87feb2318070646.js": "/Robofriends2020/precache-manifest.0f9585056eaa91c3d87feb2318070646.js",
+    "service-worker.js": "/Robofriends2020/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Robofriends2020/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.67804f47.chunk.css.map": "/Robofriends2020/static/css/main.67804f47.chunk.css.map",
+    "static/media/App.css": "/Robofriends2020/static/media/Urba.7cc222a3.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a53e5be4.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a8dbdf4a.chunk.js",
+    "static/css/main.67804f47.chunk.css",
+    "static/js/main.828d033b.chunk.js"
+  ]
+}
