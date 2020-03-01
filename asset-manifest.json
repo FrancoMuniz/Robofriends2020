@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Robofriends2020/static/css/main.67804f47.chunk.css",
-    "main.js": "/Robofriends2020/static/js/main.f4e3cc83.chunk.js",
-    "main.js.map": "/Robofriends2020/static/js/main.f4e3cc83.chunk.js.map",
+    "main.css": "/Robofriends2020/static/css/main.186a57c6.chunk.css",
+    "main.js": "/Robofriends2020/static/js/main.5d15d1f3.chunk.js",
+    "main.js.map": "/Robofriends2020/static/js/main.5d15d1f3.chunk.js.map",
     "runtime-main.js": "/Robofriends2020/static/js/runtime-main.a53e5be4.js",
     "runtime-main.js.map": "/Robofriends2020/static/js/runtime-main.a53e5be4.js.map",
     "static/css/2.eb45ad44.chunk.css": "/Robofriends2020/static/css/2.eb45ad44.chunk.css",
     "static/js/2.a8dbdf4a.chunk.js": "/Robofriends2020/static/js/2.a8dbdf4a.chunk.js",
     "static/js/2.a8dbdf4a.chunk.js.map": "/Robofriends2020/static/js/2.a8dbdf4a.chunk.js.map",
     "index.html": "/Robofriends2020/index.html",
-    "precache-manifest.cae8283440f69ddfb4189d8a4ad8956a.js": "/Robofriends2020/precache-manifest.cae8283440f69ddfb4189d8a4ad8956a.js",
+    "precache-manifest.7dee0b8f5af1a8b5b8430aa9b8368b8c.js": "/Robofriends2020/precache-manifest.7dee0b8f5af1a8b5b8430aa9b8368b8c.js",
     "service-worker.js": "/Robofriends2020/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/Robofriends2020/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.67804f47.chunk.css.map": "/Robofriends2020/static/css/main.67804f47.chunk.css.map",
+    "static/css/main.186a57c6.chunk.css.map": "/Robofriends2020/static/css/main.186a57c6.chunk.css.map",
     "static/media/App.css": "/Robofriends2020/static/media/Urba.7cc222a3.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.a53e5be4.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.a8dbdf4a.chunk.js",
-    "static/css/main.67804f47.chunk.css",
-    "static/js/main.f4e3cc83.chunk.js"
+    "static/css/main.186a57c6.chunk.css",
+    "static/js/main.5d15d1f3.chunk.js"
   ]
 }
